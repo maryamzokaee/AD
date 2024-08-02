@@ -1,0 +1,13 @@
+README.md
+setup.py
+han/AoS2.py
+han/AoS3.py
+han/HBRNN.py
+han/__init__.py
+han/attention.py
+han/utils.py
+hierachical_attention_network_for_document_classification.egg-info/PKG-INFO
+hierachical_attention_network_for_document_classification.egg-info/SOURCES.txt
+hierachical_attention_network_for_document_classification.egg-info/dependency_links.txt
+hierachical_attention_network_for_document_classification.egg-info/requires.txt
+hierachical_attention_network_for_document_classification.egg-info/top_level.txt
